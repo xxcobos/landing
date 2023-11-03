@@ -10796,3 +10796,17 @@ header.masthead .post-heading .meta a {
     font-size: 2.25rem;
   }
 }
+.sombreado{
+  border: 1px ;
+  padding: 50px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+.img-frec{
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+  border: 5px;
+  padding: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
